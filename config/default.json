@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://Anton:qwerty12345@cluster0.dvpbm.mongodb.net/protection?retryWrites=true&w=majority",
+  "jwtSecret": "Anton"
+
+}
